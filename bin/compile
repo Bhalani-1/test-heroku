@@ -16,7 +16,7 @@ if [ ! -f $CACHE_FILE ]; then
 
   # install libwebp
 
-  LIBWEBP_VERSION="1.2.1x"
+  LIBWEBP_VERSION="1.2.1"
   LIBWEBP_FILE="libwebp-$LIBWEBP_VERSION.tar.gz"
   LIBWEBP_DIR="libwebp-$LIBWEBP_VERSION"
   LIBWEBP_URL="http://downloads.webmproject.org/releases/webp/$LIBWEBP_FILE"
